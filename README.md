@@ -9,9 +9,4 @@ AWS Website
 To test API, click on "angular" link<br>
 <a id="raw-url" href="http://chrisgcs470.s3-website.us-east-2.amazonaws.com/">AWS Website</a>
 
-
-<a id="raw-url" href="http://chrisgcs470.s3-website.us-east-2.amazonaws.com/questions/about/angular">Serverless Cloud Presentation</a>
-
-[![Watch the video](https://img.youtube.com/vi/kPjWALH-5js&t/maxresdefault.jpg)](https://youtu.be/kPjWALH-5js&t)
-
-
+<a id="raw-url" href="https://www.youtube.com/watch?v=kPjWALH-5js&t">Serverless Cloud Presentation</a>
